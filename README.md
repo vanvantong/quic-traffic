@@ -1,4 +1,4 @@
-# quic_traffic
+# QUIC_traffic
 Encrypted network for some QUIC-based services
 
 Please follow the link in Google Driver to download the dataset:
